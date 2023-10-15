@@ -8,7 +8,4 @@
 ## 🐾 Project Overview
 
 ### 프로젝트 멤버
-
-### ERD
-
-### 파일 구조
+![image](https://github.com/196code-gray/Petching/assets/88307264/2f465f20-9e0b-467c-9142-37ae0ecf9c44)
