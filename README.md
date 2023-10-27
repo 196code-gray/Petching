@@ -11,6 +11,15 @@
 ### 프로젝트 미리보기
 ![image](https://github.com/196code-gray/Petching/assets/88307264/8f288ced-e198-4f4b-b8b2-202c614c2a5e)
 
+<details>
+<summary> 회원가입 </summary>
+<image src="https://github.com/196code-gray/Petching/assets/88307264/abeb279e-63a3-4e7f-85fe-92fdd61acd06">
+</details>
+
+<details>
+<summary> 반려동물 등록 </summary>
+<image src="https://github.com/196code-gray/Petching/assets/88307264/72163060-6ba7-4dad-9330-14413fee90c8">
+</details>
 
 ### 백엔드 흐름
 
