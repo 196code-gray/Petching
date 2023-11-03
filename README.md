@@ -21,13 +21,6 @@
 <image src="https://github.com/196code-gray/Petching/assets/88307264/72163060-6ba7-4dad-9330-14413fee90c8">
 </details>
 
-### 백엔드 흐름
-
-
-### 백엔드 사용 기술
-
-
-
 ### 프로젝트 멤버
 
 |                                                                      [곽지현](https://github.com/938938)                                                             |                                                                         [염도경](https://github.com/yeomdogyeong)                                                          |                                                         [김성수](https://github.com/ggggggggithub)                                                                          |                                                                                       [노호준](https://github.com/nowaveosu)                                         |                                                                   [김은정](https://github.com/196code-gray)                                                           |                                                                                        [김상래](https://github.com/ksr0818)                                          |                                                                         [조만기](https://github.com/sniij)                                                           |
